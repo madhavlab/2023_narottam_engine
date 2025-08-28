@@ -43,4 +43,4 @@ Watch our project presentation on YouTube:
 
 ## 📧 Contact
 For questions or collaborations, feel free to reach out:  
-**Your Name** – your.email@example.com
+**Sumit Kumar** – krsumit@iitk.ac.in
