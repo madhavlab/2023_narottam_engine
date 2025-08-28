@@ -12,7 +12,7 @@ Overview and Results can be found [here](https://iitk-my.sharepoint.com/:p:/r/pe
 
 [![Paper](https://img.shields.io/badge/Paper-Link-blue)](https://www.techrxiv.org/users/681419/articles/682248-automatic-detection-and-analysis-of-singing-mistakes-for-music-pedagogy)  
 [![Dataset](https://img.shields.io/badge/Dataset-Link-green)](https://zenodo.org/records/8332078)  
-[![Demo](https://img.shields.io/badge/Dataset%20Demo-Link-orange)](https://www.youtube.com/watch?v=B8qMN5H6phc&t=2s&ab_channel=MADHAVlabIITK)  
+[![Demo](https://img.shields.io/badge/Dataset%20Demo-Link-orange)](https://iitk-my.sharepoint.com/:p:/g/personal/jsuraj_iitk_ac_in/EWIKnF8Z0nJColRQw2T82qwBEOeMPXM-jMf4RXb1vjvMwg?e=Ee2hhW)
 
 ---
 
@@ -30,7 +30,7 @@ The dataset can be accessed at the following link:
 
 ## 🎛 Dataset Demo
 Check out the interactive demo of the dataset:  
-👉 [Link to Dataset Demo](https://www.youtube.com/watch?v=B8qMN5H6phc&t=2s&ab_channel=MADHAVlabIITK)  
+👉 [Link to Dataset Demo](https://iitk-my.sharepoint.com/:p:/g/personal/jsuraj_iitk_ac_in/EWIKnF8Z0nJColRQw2T82qwBEOeMPXM-jMf4RXb1vjvMwg?e=Ee2hhW)
 
 ---
 
