@@ -4,7 +4,7 @@ Download the **Data** folder from the given link [here](https://iitk-my.sharepoi
 
 All dependencies are mentioned in the `requirements.txt`.  
 
-Dataset demo and overview can be found [here](https://iitk-my.sharepoint.com/:p:/g/personal/jsuraj_iitk_ac_in/EWIKnF8Z0nJColRQw2T82qwBEOeMPXM-jMf4RXb1vjvMwg?e=Ee2hhW)
+
 
 ---
 
