@@ -1,6 +1,5 @@
 # Automatic Mistake Detection in Music Performances
 
-Download the **Data** folder from the given link [here](https://iitk-my.sharepoint.com/:f:/r/personal/jsuraj_iitk_ac_in/Documents/Madhav%20Lab/M3?csf=1&web=1&e=HUdgr5).  
 
 All dependencies are mentioned in the `requirements.txt`.  
 
